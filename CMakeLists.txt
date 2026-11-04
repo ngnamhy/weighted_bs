@@ -11,7 +11,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_executable(weighted_bs src/main.cpp
 	src/algo/naive.cpp
 	src/algo/binary_search.cpp
-
+	src/algo/third_search.cpp
 )
 
 
